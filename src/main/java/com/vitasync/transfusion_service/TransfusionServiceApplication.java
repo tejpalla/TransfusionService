@@ -8,4 +8,4 @@ public class TransfusionServiceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(TransfusionServiceApplication.class, args);
 	}
-}
+} 				
